@@ -85,15 +85,22 @@ The project focuses on answering important business questions, analyzing custome
 
 ---
 
-# 📊 Visualizations
+# 📷 Project Visualizations
 
-The project includes the following visualizations:
+### 📊 Revenue by Product Line
+![Revenue by Product Line](graphs/revenue_by_product_line.png)
 
-- 📊 Revenue by Product Line
-- 📈 Monthly Sales Trend
-- 🏙 Revenue by City
-- 🥧 Payment Method Distribution
-- 🔵 Quantity vs Revenue
+### 📈 Monthly Sales Trend
+![Monthly Sales Trend](graphs/monthly_sales_trend.png)
+
+### 🏙 Revenue by City
+![Revenue by City](graphs/revenue_by_city.png)
+
+### 🥧 Payment Method Distribution
+![Payment Method Distribution](graphs/payment_method_distribution.png)
+
+### 🔵 Quantity vs Revenue
+![Quantity vs Revenue](graphs/quantity_vs_revenue.png)
 
 ---
 
@@ -107,6 +114,21 @@ The project includes the following visualizations:
 - ⏰ Peak sales occurred at **19:00**.
 - 💳 **Ewallet** was the most preferred payment method.
 - ⭐ Branch **C** achieved the highest average customer rating.
+
+---
+
+# 📊 Results Summary
+
+| Metric | Result |
+|--------|--------|
+| Total Revenue | ₹322,966.75 |
+| Total Profit | ₹15,379.37 |
+| Average Customer Rating | 6.97/10 |
+| Best Branch | C |
+| Best City | Naypyitaw |
+| Best Product Line | Food and Beverages |
+| Most Preferred Payment | Ewallet |
+| Peak Sales Hour | 19:00 |
 
 ---
 
@@ -158,22 +180,6 @@ python supermarket_sales_analysis.py
 
 ---
 
-# 📷 Project Output
-
-All generated visualizations are available inside the **graphs** folder.
-
-> Revenue by Product Line
-
-> Monthly Sales Trend
-
-> Revenue by City
-
-> Payment Method Distribution
-
-> Quantity vs Revenue
-
----
-
 # 🎓 Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -196,8 +202,7 @@ Through this project, I gained practical experience in:
 
 Engineering Student | Python | SQL | Data Analytics
 
-GitHub:
-https://github.com/karanalkunte20-jpg
+GitHub: **https://github.com/karanalkunte20-jpg**
 
 ---
 
